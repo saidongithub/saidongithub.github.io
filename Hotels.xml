@@ -70,6 +70,7 @@
   <Hotel>
     <Name>DoubleTree by Hilton Phoenix Mesa</Name>
     <Phone>480-833-5555</Phone>
+    <Phone>800-222-8733</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>1011</Number>
       <Street>W Holmes Ave</Street>
